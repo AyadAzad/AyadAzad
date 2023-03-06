@@ -8,7 +8,7 @@ Whether I'm developing a new project or diving into a new book, I'm always looki
 If you're looking for a hardworking, curious, and enthusiastic front-end developer with a love for learning and a passion for creativity, then I'd be thrilled to connect with you. Thanks for taking the time to get to know me a little better!
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayad-azad-b2b1a7230) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayad-azad-b2b1a7230/message/compose/?to=ayad-azad-b2b1a7230&body=Hi%20Ayad) 
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=red&color=white)](mailto:ayad.azad77@gmail.com) 
 
 # 💻Tech Stack
