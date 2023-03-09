@@ -22,7 +22,7 @@ If you're looking for a hardworking, curious, and enthusiastic front-end develop
   </div>
   <span style="display: block; margin-left: 0.3em; transition: all 0.3s ease-in-out;">Send</span>
 </button>
-<style>
+<!-- <style>
   button:hover .svg-wrapper {
     animation: fly-1 0.6s ease-in-out infinite alternate;
   }
@@ -42,7 +42,7 @@ If you're looking for a hardworking, curious, and enthusiastic front-end develop
     to {
       transform: translateY(-0.1em);
     }}
-</style>
+</style> -->
 <!-- telegram ends -->
 
 
