@@ -11,7 +11,7 @@ If you're looking for a hardworking, curious, and enthusiastic front-end develop
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayad-azad-b2b1a7230) 
 
 <a href="https://t.me/AyadAzad_2023">
-  <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white" alt="Telegram" style="width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white" alt="Telegram" style="width: 100px; height: 50px;">
 </a>
 
 
