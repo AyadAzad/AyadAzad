@@ -10,9 +10,7 @@ If you're looking for a hardworking, curious, and enthusiastic front-end develop
 ## 🌐Socials & Email
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayad-azad-b2b1a7230) 
 
-<a href="https://t.me/AyadAzad_2023">
-  <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white" alt="Telegram" style="width: 120px; height: 50px;">
-</a>
+// telegram
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=red&color=white)](mailto:ayad.azad77@gmail.com) 
