@@ -10,7 +10,7 @@ If you're looking for a hardworking, curious, and enthusiastic front-end develop
 # 💫Updating my stack :
 PHP - => Node Js </br>
 MYSQL + => + postgreSQl + MongoDB </br>
-<span style="background-color:red">Note:</span> I've been developing websites using PHP and MYSQL for a long time, so now I am planning to replace PHP with Node js </br>
+# Note: I've been developing websites using PHP and MYSQL for a long time, so now I am planning to replace PHP with Node js </br>
 and I will also add PostgreSQL and MongoDB to my Stack.
 ## 🌐Socials & Email
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayad-azad-b2b1a7230) 
