@@ -7,6 +7,11 @@ Whether I'm developing a new project or diving into a new book, I'm always looki
 
 If you're looking for a hardworking, curious, and enthusiastic front-end developer with a love for learning and a passion for creativity, then I'd be thrilled to connect with you. Thanks for taking the time to get to know me a little better!
 
+# 💫Updating my stack :
+PHP - => Node Js
+MYSQL + => + postgreSQl + MongoDB
+Note: I've been developing websites using PHP and MYSQL for a long time, so now I am planning to replace PHP with Node js 
+and I will also add PostgreSQL and MongoDB to my Stack.
 ## 🌐Socials & Email
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayad-azad-b2b1a7230) 
 [![Telegram](https://img.shields.io/badge/Telegram-%232c2f33.svg?logo=telegram&logoColor=white)](https://t.me/AyadAzad_2023)
